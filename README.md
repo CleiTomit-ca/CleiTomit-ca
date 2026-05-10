@@ -29,7 +29,6 @@ Buscando minha primeira oportunidade como estagiário em desenvolvimento backend
 ### 📚 Intermediário
 | Projeto | Descrição |
 |--------|-----------|
-| **Sistema de Biblioteca** | Cadastro com HashMap, Set, List e Enum |
 | **Sistema de Funcionários** | Gerenciamento com persistência em arquivo |
 | **Sistema de Estoque** | Controle de produtos com coleções |
 
