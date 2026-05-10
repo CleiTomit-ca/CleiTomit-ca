@@ -1,21 +1,54 @@
-# 💫 About Me:
-🤝 I’m looking for help with Java<br>🌱 I’m currently learning Java<br>💬 Ask me about Jobs<br>⚡ Curious
+# Olá, eu sou Cleiton Ferreira Silva 👋
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cleiton_t.i) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiton-ferreira-silva-418125320/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/CleiTomica) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CleiTomit-ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CleiTomit-ca&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CleiTomit-ca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CleiTomit-ca&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+Desenvolvedor Java Backend em formação, morando em Antônio Gonçalves/BA.
+Buscando minha primeira oportunidade como estagiário em desenvolvimento backend.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CleiTomit-ca&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Projetos
+
+### ☕ Fundamentos Java
+| Projeto | Descrição |
+|--------|-----------|
+| **Caixa Eletrônico** | Conta bancária com depósito, saque e extrato |
+| **Cadastro de Alunos** | Sistema com cálculo de média e situação dos alunos |
+| **Gerenciador de Despesas** | Controle de gastos por categoria com HashMap e Enum |
+
+### 📚 Intermediário
+| Projeto | Descrição |
+|--------|-----------|
+| **Sistema de Biblioteca** | Cadastro com HashMap, Set, List e Enum |
+| **Sistema de Funcionários** | Gerenciamento com persistência em arquivo |
+| **Sistema de Estoque** | Controle de produtos com coleções |
+
+### 🌱 Spring Boot + JPA
+| Projeto | Descrição |
+|--------|-----------|
+| **Sistema de Biblioteca JPA** | API REST com Spring Boot, JPA e PostgreSQL |
+| **Sistema de Barbearia** | API REST com agendamentos e relacionamentos JPA |
+| **Sistema de Delivery** | API REST com validações e tratamento de erros centralizado |
+
+---
+
+## 📊 GitHub Stats
+
+![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleiTomit-ca&show_icons=true&theme=dark)
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
