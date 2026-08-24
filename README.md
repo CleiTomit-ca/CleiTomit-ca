@@ -1,12 +1,14 @@
 # Olá, eu sou Cleiton Ferreira Silva 👋
 
-Desenvolvedor Java Backend em formação, morando em Antônio Gonçalves/BA.
-Buscando minha primeira oportunidade como estagiário em desenvolvimento backend.
+Desenvolvedor Backend em formação, migrando de Java/Spring Boot para C#/.NET como stack principal.
+Buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior em desenvolvimento backend.
 
 ---
 
 ## 🚀 Tecnologias
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -19,20 +21,32 @@ Buscando minha primeira oportunidade como estagiário em desenvolvimento backend
 
 ## 📂 Projetos
 
-### ☕ Fundamentos Java
+### 🔷 C#/.NET (foco atual)
+
+| Projeto | Descrição |
+|--------|-----------|
+| **Controle de Estoque** | CLI de gerenciamento de produtos com POO, exceções customizadas e camada de serviço |
+| **ProdutoApi** | API REST com ASP.NET Core, EF Core, PostgreSQL e Docker Compose |
+
+### 📦 Projetos Anteriores (Java/Spring Boot)
+
+#### ☕ Fundamentos Java
+
 | Projeto | Descrição |
 |--------|-----------|
 | **Caixa Eletrônico** | Conta bancária com depósito, saque e extrato |
 | **Cadastro de Alunos** | Sistema com cálculo de média e situação dos alunos |
 | **Gerenciador de Despesas** | Controle de gastos por categoria com HashMap e Enum |
 
-### 📚 Intermediário
+#### 📚 Intermediário
+
 | Projeto | Descrição |
 |--------|-----------|
 | **Sistema de Funcionários** | Gerenciamento com persistência em arquivo |
 | **Sistema de Estoque** | Controle de produtos com coleções |
 
-### 🌱 Spring Boot + JPA
+#### 🌱 Spring Boot + JPA
+
 | Projeto | Descrição |
 |--------|-----------|
 | **Sistema de Biblioteca JPA** | API REST com Spring Boot, JPA e PostgreSQL |
