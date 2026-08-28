@@ -25,8 +25,7 @@ Buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior e
 
 | Projeto | Descrição |
 |--------|-----------|
-| **Controle de Estoque** | CLI de gerenciamento de produtos com POO, exceções customizadas e camada de serviço |
-| **ProdutoApi** | API REST com ASP.NET Core, EF Core, PostgreSQL e Docker Compose |
+| **Controle de Estoque** | API de Controle de Estoque |
 
 ### 📦 Projetos Anteriores (Java/Spring Boot)
 
