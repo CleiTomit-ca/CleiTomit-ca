@@ -20,20 +20,7 @@ Autodidata, com base sólida em Java e no ecossistema Spring, buscando minha pri
 
 **Também trabalho com:** JPA/Hibernate, Bean Validation, Lombok, Liquibase, JWT, Docker (básico)
 
----
-
-## 📂 Projeto em destaque
-
-### 🏦 NexBak — Sistema Bancário
-API REST simulando operações bancárias (`Cliente`, `Conta`, `Transacao`), com foco em boas práticas de modelagem de domínio.
-- Modelagem JPA com relacionamentos entre entidades
-- Métodos de domínio ao invés de setters públicos (`depositar()`, `sacar()`)
-- Versionamento de schema com **Liquibase**
-- Autenticação e autorização com **Spring Security + JWT**
-
----
-
-## 📦 Outros projetos
+## 📦 projetos
 
 ### 🌱 APIs REST com Spring Boot
 | Projeto | Descrição |
