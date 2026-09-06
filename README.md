@@ -32,6 +32,7 @@ Autodidata, com base sólida em Java e no ecossistema Spring, buscando minha pri
 | **Sistema de Delivery** | API REST com validações e tratamento de erros centralizado |
 | **cadastro_usuarios** | API de cadastro de usuários com Swagger, DTOs e exceções customizadas |
 | **job_api** | API para vagas de emprego |
+| **achou-plataforma** | API REST com Spring Boot, Jpa, PostgreSQL, Swagger, Reddis, SonarQube e docker|
 
 ### ☕ Fundamentos Java
 | Projeto | Descrição |
