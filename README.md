@@ -25,7 +25,7 @@ Autodidata, com base sólida em Java e no ecossistema Spring, buscando minha pri
 ### 🌱 APIs REST com Spring Boot
 | Projeto | Descrição |
 |--------|-----------|
-| **TaskFlow API** | API de tarefas com JPA, Spring Security, JWT, tratamento global de exceções e paginação |
+| **todo-list** | API de tarefas com JPA, Spring Security, JWT, tratamento global de exceções e paginação |
 | **api-seguranca** | API dedicada à autenticação e autorização via JWT |
 | **Sistema de Biblioteca** | API REST com Spring Boot, JPA e PostgreSQL |
 | **Sistema de Barbearia** | API REST com agendamentos e relacionamentos JPA |
